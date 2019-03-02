@@ -1,2 +1,2 @@
-# Programs-on-c-
-Free
+# Programs-on-с++
+Free for anyone 
